@@ -1,4 +1,8 @@
 node_modules/
 *.zip
 implement-model-specific-pricing-pages*/
+implement-model-specific-pricing-pages*
+vibor/
 start.ps1
+package-lock.json
+package.json
